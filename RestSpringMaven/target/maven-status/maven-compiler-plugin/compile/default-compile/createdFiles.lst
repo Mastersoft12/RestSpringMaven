@@ -1,0 +1,4 @@
+com\springmvc\config\WebConfig.class
+com\springmvc\controller\HomeController.class
+com\springmvc\model\Persona.class
+com\springmvc\config\RootConfig.class
